@@ -134,7 +134,6 @@ Creates sample teams, users, and alerts for testing.
 ```cmd
 python manage.py trigger_reminder
 ```
-Manually triggers reminders for all active alerts. This simulates the 2-hour cron job for reminder notifications.
 
 ## 🔧 Configuration
 
