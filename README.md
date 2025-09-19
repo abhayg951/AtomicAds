@@ -34,7 +34,7 @@ See `requirements.txt` for complete dependency list.
 
 1. **Clone the repository**
    ```cmd
-   git clone <repository-url>
+   git clone https://github.com/abhayg951/AtomicAds.git
    cd AtomicAds
    ```
 
